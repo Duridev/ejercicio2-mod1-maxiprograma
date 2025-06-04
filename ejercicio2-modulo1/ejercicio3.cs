@@ -17,7 +17,7 @@ namespace ejercicio2_modulo1
 
             tiempoDeConduccion = kilometrosEntre2Ciudades / velocidadVehiculo;
 
-            Console.WriteLine("El tiempo de conducción es de: " + tiempoDeConduccion.ToString("0.00") + " horas");
+            Console.WriteLine("El tiempo de conducción es de: " + tiempoDeConduccion + " horas");
         }
     }
 }
