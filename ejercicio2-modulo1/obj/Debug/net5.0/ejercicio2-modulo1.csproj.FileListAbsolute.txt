@@ -28,3 +28,4 @@ C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo2.6-ex3\ejercicio2-mo
 C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo2.6-ex3\ejercicio2-modulo1\bin\Debug\net5.0\ejercicio2-modulo1.pdb
 C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo2.6-ex3\ejercicio2-modulo1\obj\Debug\net5.0\ejercicio2-modulo1.genruntimeconfig.cache
 C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo2.6-ex3\ejercicio2-modulo1\obj\Debug\net5.0\ref\ejercicio2-modulo1.dll
+C:\Users\durib\Desktop\maxi-programa\curso-c#-nivel1\modulo2.6-ex3\ejercicio2-modulo1\obj\Debug\net5.0\ejercicio2-modulo1.sourcelink.json
